@@ -1,0 +1,27 @@
+{
+  "name": "cube-fileloader",
+  "version": "0.0.3",
+  "description": "file loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yopoing/cube-fileloader.git"
+  },
+  "keywords": [
+    "file",
+    "loader",
+    "fileloader"
+  ],
+  "author": "suntopo",
+  "license": "ISC",
+  "dependencies": {
+    "globby": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/globby": "^8.0.0"
+  }
+}
